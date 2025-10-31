@@ -1,11 +1,11 @@
-# 🌾 Sugarcane Production Data Analysis
+#  Sugarcane Production Data Analysis
 
 This project analyzes global **sugarcane production**, including comparisons across countries and continents.  
 The goal is to identify patterns in production, yield efficiency, acreage distribution, and per-person production using Python and data visualization.
 
 ---
 
-## ✅ Project Objectives
+##  Project Objectives
 - Explore global sugarcane production by country and continent  
 - Analyze acreage and yield efficiency  
 - Identify top 10 producing countries  
@@ -18,7 +18,7 @@ The goal is to identify patterns in production, yield efficiency, acreage distri
 
 ---
 
-## 📘 Dataset
+##  Dataset
 The dataset includes the following columns:
 - **Country**
 - **Continent**
@@ -29,7 +29,7 @@ The dataset includes the following columns:
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 - **Python**
 - Pandas  
 - NumPy  
@@ -39,7 +39,7 @@ The dataset includes the following columns:
 
 ---
 
-## 📊 Key Analysis & Insights
+##  Key Analysis & Insights
 ✅ Top-10 producers visualized using bar charts  
 ✅ Highest acreage comparison  
 ✅ Heatmap of correlations (numeric features only)  
@@ -48,7 +48,7 @@ The dataset includes the following columns:
 
 ---
 
-## 🔍 How to Run the Notebook
+##  How to Run the Notebook
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
