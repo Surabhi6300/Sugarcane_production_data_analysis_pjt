@@ -52,3 +52,13 @@ The dataset includes the following columns:
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
+or
+``` bash
+conda env create -f environment.yml
+```
+Open Jupyter Notebook:
+```bash
+jupyter notebook
+```
+Run Sugarcane_production_data-analysis.ipynb
