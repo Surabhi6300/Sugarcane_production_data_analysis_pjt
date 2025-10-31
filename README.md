@@ -1,10 +1,8 @@
 #  Sugarcane Production Data Analysis
-
 This project analyzes global **sugarcane production**, including comparisons across countries and continents.  
 The goal is to identify patterns in production, yield efficiency, acreage distribution, and per-person production using Python and data visualization.
 
 ---
-
 ##  Project Objectives
 - Explore global sugarcane production by country and continent  
 - Analyze acreage and yield efficiency  
@@ -17,7 +15,6 @@ The goal is to identify patterns in production, yield efficiency, acreage distri
 - Visualize patterns using Seaborn & Matplotlib  
 
 ---
-
 ##  Dataset
 The dataset includes the following columns:
 - **Country**
