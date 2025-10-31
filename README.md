@@ -57,8 +57,8 @@ or
 ``` bash
 conda env create -f environment.yml
 ```
-Open Jupyter Notebook:
+2.Open Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
-Run Sugarcane_production_data-analysis.ipynb
+3.Run Sugarcane_production_data-analysis.ipynb
